@@ -1,6 +1,6 @@
 {
   "name": "react-grid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Data grid fro React",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "reactify": "^0.14.0"
   },
   "peerDependencies": {
-    "react": "^0.11.1"
+    "react": "0.12.*"
   },
   "devDependencies": {
     "browserify": "^5.9.1",
