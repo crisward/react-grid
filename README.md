@@ -2,6 +2,7 @@
 
 This is a quick fork, just to fix some minor issues with 0.12, I may fix some more or just wait until the 0.12 version is ready.
 
+Instructions are here http://prometheusresearch.github.io/react-grid/ 
 
 Data grid for [React][].
 
